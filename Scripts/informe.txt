@@ -1,0 +1,4 @@
+Líneas totales: 2
+Palabras totales: 16
+Caracteres totales: 95
+Apariciones de 'Python': 0

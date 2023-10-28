@@ -1,0 +1,6 @@
+Texto en inglés:
+Hello, this is a test of the script
+
+
+Texto traducido al español:
+Hola, esta es una prueba del guión
